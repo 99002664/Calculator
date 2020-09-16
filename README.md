@@ -1,1 +1,1 @@
-# Calculator
+# Prime number
