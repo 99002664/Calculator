@@ -1,6 +1,6 @@
 SRC = unity/unity.c\
-src/primenum.c\
-test/test_primeNum.c\
+src/Prime.c\
+test/test_prime.c\
 main.c
 
 INC = -Iunity\
